@@ -5,9 +5,9 @@ using System.Threading.Tasks;
 
 namespace tarea4.entidades
 {
-    public class variableletras
+    public class EntidadContador
     {
-        public string Dato1{get;set;}
+        public string Texto { get;set; } = "";
         
     }
 }
